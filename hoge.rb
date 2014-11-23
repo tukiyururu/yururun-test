@@ -1,5 +1,4 @@
 #! /usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
-
-puts "hoge"
+10.times { puts "hoge" }
